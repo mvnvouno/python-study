@@ -1,0 +1,7 @@
+[user]
+	name = kimmy
+	email = 29alsdud@gmail.com
+[core]
+	autocrlf = true
+	quotepath = false
+	ignorecase = false

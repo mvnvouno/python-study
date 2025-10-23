@@ -1,0 +1,10 @@
+0 -> Life is too short, you need to learn Python
+1 -> Life is too short, you need to learn Python
+2 -> Life is too short, you need to learn Python
+3 -> Life is too short, you need to learn Python
+4 -> Life is too short, you need to learn Python
+5 -> Life is too short, you need to learn Python
+6 -> Life is too short, you need to learn Python
+7 -> Life is too short, you need to learn Python
+8 -> Life is too short, you need to learn Python
+9 -> Life is too short, you need to learn Python
