@@ -3,7 +3,7 @@
 > -> 그리고 내가 했을 때 다르게 나오는 결과들에 대해서 '왜' 다르게 나오는지까지 밝혀내야 됨
 
 # Assignment 1    (기본적으론 개인전임) 
-# - 제출기한: 11/18(화) 
+# - 제출기한: 11/21(금) 
 빅데이터 분석 전문가 양성과정 52기 - 김민영
 
 ## #01. 당신의 관심사를 표현하는 문장을 다섯개 이상 서술하세요.
@@ -15,20 +15,26 @@
 > 5.타 나라들과 비교한 한국인의 퍼스널컬러에서의 색채학 적 분석? 화장품?
 > 6.주식 트렌드?
 
-1. no consensus was found (still controversial) in whether alcohol intake has a impact on causing alzheimer desease (claimed in a year before)
-2. what are the factors for degrading short-term memory?
-3. 
+1. 알츠하이머는 치매 증상을 야기하는 질병 중 2/3의 비중을 차지하는 병이다. 전 세계 적으로 고령화 사회로 접어드는 요즘의 사회 현상에 맞춰 알츠하이머 질병 치료법 개발은 수요가 증가하고 있다. 활발한 연구 진행의 결과 2017년에 해당 질병의 원인이 규명이 되었으나 아직 약물 치료와 비 약물 치료 모든 면에 있어서 크리티컬한 효과를 내는 치료법이 개발 되지 않은 시점이다. 
+2. 현재까지(to date), 바이오마커를 이용한 AD의 초기 진단기준과 알츠하이머의 생물학적 병기를 나누는 기준(pet 인자들의 양/음성 반응의 조합), 질병의 진행도에 따라 발현되는 증상의 임상적 병기 단계 구축까지는 되어 있다. 
+3. 해당 질병의 원인인자 (Aβ)를 발견한 이후로 현재까지 7년이라는 세월 동안 원인조절 치료제와 증상완화 치료제 개발은 어느 정도 진행이 되었다. 그러나 현재까지 FDA 승인을 통과한 원인조절 치료제는 총 3건 밖에 없으며, 이 조차 부작용 발생 및 Aβ를 직접 타겟하는 것이 아닌 Aβ의 축적 및 농도증가만을 막는 것에만 효과가 있다는 문제점을 직면하고 있다. 
 4. 
-5. 
-key terms: alcohol intake, short/long-term memory, alzheimer, Korsakoff syndrome, Wernicke’s encephalopathy, alcohol-related brain damage
+5. 따라서 우리는 screening과 머신러닝을 이용한 신약 후보군을 디자인, 
+6. 최적화 디자인 한 신약의 시장 가치성 입증, 
+7. 나아가 아직 밝혀지지 않은 영향 인자와의 상관관계 규명까지 밝혀내는 것이 관심사이다.
+8. AD 환자들에게서 STM의 손상보다 LTM의 손상이 더 크게 나타난다
+
+-key terms: short/long-term memory, alzheimer, 
+-pheriperal interests: alcohol-related brain damage (Korsakoff syndrome, Wernicke’s encephalopathy)
 
 ## #02. 관심사와 관련된 참고자료를 최대한 많이 조사하세요.
 : 간행물, 공모전 분석 포토폴리오, 논문 등
+: https://pubs.acs.org/doi/abs/10.1021/acs.accounts.1c00457
 : https://www.mdpi.com/2072-6643/13/11/3938#B74-nutrients-13-03938
 : https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00498/full
 : https://pmc.ncbi.nlm.nih.gov/articles/PMC11822271/pdf/jksr-86-6.pdf
 : https://www.kaggle.com/code/faizkhan7/alzheimer-s-disease-analysis-and-predictions/notebook
-:
+: https://psycnet.apa.org/buy/2012-17220-003
 :
 
 ### 자료제목
@@ -44,3 +50,5 @@ key terms: alcohol intake, short/long-term memory, alzheimer, Korsakoff syndrome
 
 
 ## #04. 선정한 주제에 대해 문제원인, 문제제시, 주제요약, 예상결과 및 예상효과를 문장 형식으로 '서술'하세요.
+
+A thought-provoking current issue concerns on factors causing alzheimer disease, setting up its diagnostic criteria in more detail, accurate prediction in the incidence rate and furthermore a new drug development to prevent the incidence of the disease in a pharmaceutical manner.
