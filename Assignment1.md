@@ -23,16 +23,12 @@
 6. 디자인 최적화 한 신약의 시장 가치성 입증, 
 7. 나아가 아직 밝혀지지 않은 영향 인자와의 상관관계 규명까지 밝혀내는 것이 관심사이다.
 > AD 환자들에게서 STM의 손상보다 LTM의 손상이 더 크게 나타난다
-
 -key terms: short/long-term memory, alzheimer, amyloid-beta
 -pheriperal interests: alcohol-related brain damage (Korsakoff syndrome, Wernicke’s encephalopathy)
 
+
 ## #02. 관심사와 관련된 참고자료를 최대한 많이 조사하세요.
 : 간행물, 공모전 분석 포토폴리오, 논문 등
-: https://pmc.ncbi.nlm.nih.gov/articles/PMC11822271/pdf/jksr-86-6.pdf
-: https://www.kaggle.com/code/faizkhan7/alzheimer-s-disease-analysis-and-predictions/notebook
-: https://psycnet.apa.org/buy/2012-17220-003
-
 
 ### Mechanistic Insight into the Design of Chemical Tools to Control Multiple Pathogenic Features in Alzheimer’s Disease
 - 저자,발행년도 : 한지연, Zhi Du, 2021
@@ -49,18 +45,20 @@
 ### Revisiting the continuum hypothesis: toward an in-depth exploration of executive functions in Korsakoff syndrome
 - 저자,발행년도 : Mélanie Brion, Anne-Lise Pitel, Hélène Beaunieux, Pierre Maurage, 2014
 - 출처 : Perspective article in Frontiers in Human Neoriscience Vol 8 Article 498 [2014]
-- 주요내용 (요약된 한 문장으로): disproportionate: 불균형 episodic: 단편적
+- 주요내용 : 아래에 나열된 것들을 목표로 하는 연구 프로그램 제시: 1) Korsakoff syndrome (KS)을 겪고 있는 환자에게 특정 수행기능(executive functions, EF)을 시킴으로 EF의 장애 정도를 분명히 하는 것; 2) 알콜 의존증 환자와 KS 환자의 EF 차이를 결정하는 것; 3) KS 환자들에게 획기적인 과제를 시킴으로 EF랑 기억간의 상호작용을 탐구하는 것
 > https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00498/full
 
-### 자료제목
+### Alzheimer's Disease Analysis and Predictions
 - 저자,발행년도 :
 - 출처 :
 - 주요내용 (요약된 한 문장으로):
+- > www.kaggle.com/code/faizkhan7/alzheimer-s-disease-analysis-and-predictions/notebook
 
-### 자료제목
+### Memory distortion in Alzheimer's disease: Deficient monitoring of short- and long-term memory.
 - 저자,발행년도 :
 - 출처 :
 - 주요내용 (요약된 한 문장으로):
+- > https://psycnet.apa.org/buy/2012-17220-003
 
 ### 자료제목
 - 저자,발행년도 :
