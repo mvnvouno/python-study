@@ -49,8 +49,8 @@
 > https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2014.00498/full
 
 ### Alzheimer's Disease Analysis and Predictions
-- 저자,발행년도 :
-- 출처 :
+- 저자,발행년도 : Mohd Faiz Khan, 2024
+- 출처 : kaggle.com
 - 주요내용 (요약된 한 문장으로):
 - > www.kaggle.com/code/faizkhan7/alzheimer-s-disease-analysis-and-predictions/notebook
 
@@ -60,32 +60,12 @@
 - 주요내용 (요약된 한 문장으로):
 - > https://psycnet.apa.org/buy/2012-17220-003
 
-### 자료제목
-- 저자,발행년도 :
-- 출처 :
-- 주요내용 (요약된 한 문장으로):
-
-### 자료제목
-- 저자,발행년도 :
-- 출처 :
-- 주요내용 (요약된 한 문장으로):
-
-### 자료제목
-- 저자,발행년도 :
-- 출처 :
-- 주요내용 (요약된 한 문장으로):
-
-### 자료제목
-- 저자,발행년도 :
-- 출처 :
-- 주요내용 (요약된 한 문장으로):
-
 
 
 ## #03. 자신의 최종 분석 주제를 한 문장으로 표현하세요.
-
+머신러닝을 통한 알츠하이머 질병의 신약 개발 연구
 
 
 ## #04. 선정한 주제에 대해 문제원인, 문제제시, 주제요약, 예상결과 및 예상효과를 문장 형식으로 '서술'하세요.
 
-A thought-provoking current issue concerns on factors causing alzheimer disease, setting up its diagnostic criteria in more detail, accurate prediction in the incidence rate and furthermore a new drug development to prevent the incidence of the disease in a pharmaceutical manner.
+A thought-provoking current issue concerns on factors causing alzheimer disease, setting up its diagnostic criteria in more detail and accurate prediction in the incidence rate with growing population in the elderly groups. Thus this study aims to a new drug development to prevent the incidence of the disease in a pharmaceutical manner using machine-learning technique.
